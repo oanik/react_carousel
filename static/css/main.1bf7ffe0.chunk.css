@@ -1,2 +1,0 @@
-*{box-sizing:border-box}.Labels{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-between}label{color:#140f2c}input,label{font-size:20px;font-family:serif}input{border:2px solid #34248f;box-sizing:border-box;border-radius:5px;width:100px;text-align:center}.Carousel_container{border:1px solid #0f0b0b;border-radius:5px;position:relative;margin:40px auto;overflow-x:hidden}.Carousel{position:absolute;transition:transform 1s;display:flex;background:#add8e6}.Carousel_buttons{display:flex;justify-content:center}
-/*# sourceMappingURL=main.1bf7ffe0.chunk.css.map */
